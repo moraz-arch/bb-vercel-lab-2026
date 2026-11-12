@@ -1,0 +1,15 @@
+
+{
+  "version": 2,
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "X-Bounty-Lab",
+          "value": "account-b-fork"
+        }
+      ]
+    }
+  ]
+}
