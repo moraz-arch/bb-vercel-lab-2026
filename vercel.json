@@ -6,7 +6,7 @@
       "headers": [
         {
           "key": "X-Authorization-Test",
-          "value": "unapproved-fork"
+          "value": "second-commit-test"
         }
       ]
     }
