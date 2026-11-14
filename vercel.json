@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/rewrite-probe",
+      "destination": "https://vercel-rewrite-lab.mohrazurama.workers.dev/probe"
+    }
+  ]
+}
