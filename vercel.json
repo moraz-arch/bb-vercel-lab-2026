@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "X-Authorization-Test",
+          "value": "second-commit-test"
+        }
+      ]
+    }
+  ]
+}
