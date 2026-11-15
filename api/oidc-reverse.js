@@ -9,7 +9,7 @@ export default async function handler(req, res) {
   }
 
   const target =
-    "https://<PREVIEW-DEPLOYMENT-URL>/api/check";
+    "https://bb-vercel-lab-2026-git-oidc-boundar-3fd326-hackerone-a-by-moraz.vercel.app/api/check";
 
   try {
     const response = await fetch(target, {
